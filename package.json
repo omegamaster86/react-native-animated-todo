@@ -1,5 +1,6 @@
 {
   "name": "react-native-animated-todo",
+  "description": "A smoothly animated ToDo app built with React Native",
   "main": "expo-router/entry",
   "version": "1.0.0",
   "scripts": {
